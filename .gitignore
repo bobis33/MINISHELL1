@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#other 
+doc/BOOSTRAP
+mysh
+unit_tests
+coding-style-reports.log
+*.a
+*.o
+*.gcda
+*.gcno
+vgcore*
+a.out
