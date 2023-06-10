@@ -1,5 +1,5 @@
 
-# # EPITECH PROJECT | UNIX_SYSTEM_PROGRAMMING (minishell1)
+# EPITECH PROJECT | UNIX_SYSTEM_PROGRAMMING (minishell1)
 
 <br> <br/>
 
